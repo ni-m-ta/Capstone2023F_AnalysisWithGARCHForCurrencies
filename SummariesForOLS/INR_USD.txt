@@ -1,0 +1,35 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                    INR   R-squared:                       0.943
+Model:                            OLS   Adj. R-squared:                  0.943
+Method:                 Least Squares   F-statistic:                     3794.
+Date:                Sun, 26 Nov 2023   Prob (F-statistic):               0.00
+Time:                        17:03:41   Log-Likelihood:                 12957.
+No. Observations:                1828   AIC:                        -2.590e+04
+Df Residuals:                    1819   BIC:                        -2.585e+04
+Df Model:                           8                                         
+Covariance Type:            nonrobust                                         
+=======================================================================================
+                          coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------
+PEN                     0.0091      0.001     15.194      0.000       0.008       0.010
+ETH                   2.11e-08   1.19e-08      1.776      0.076    -2.2e-09    4.44e-08
+CNY                    -0.0097      0.002     -4.480      0.000      -0.014      -0.005
+NZD                     0.0072      0.000     20.608      0.000       0.007       0.008
+BTC                   6.92e-10   8.39e-10      0.825      0.410   -9.54e-10    2.34e-09
+USDT                    0.0068      0.001      6.219      0.000       0.005       0.009
+CHF                    -0.0054      0.000    -32.875      0.000      -0.006      -0.005
+JPY                     0.3095      0.011     29.276      0.000       0.289       0.330
+Const                  -4.0346      1.208     -3.341      0.001      -6.403      -1.666
+ConditionalVariance     0.1179      0.035      3.341      0.001       0.049       0.187
+==============================================================================
+Omnibus:                      148.006   Durbin-Watson:                   0.083
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              183.609
+Skew:                          -0.747   Prob(JB):                     1.35e-40
+Kurtosis:                       3.420   Cond. No.                     2.70e+23
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The smallest eigenvalue is 2.05e-35. This might indicate that there are
+strong multicollinearity problems or that the design matrix is singular.
