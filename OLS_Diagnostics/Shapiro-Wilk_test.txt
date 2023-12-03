@@ -1,0 +1,18 @@
+PEN_USD:
+ShapiroResult(statistic=0.981982946395874, pvalue=2.0860546159928196e-14)
+ETH_USD:
+ShapiroResult(statistic=0.9289796948432922, pvalue=1.3227107505825465e-28)
+INR_USD:
+ShapiroResult(statistic=0.9463540315628052, pvalue=2.808035194681503e-25)
+CNY_USD:
+ShapiroResult(statistic=0.9645178914070129, pvalue=8.986229257453969e-21)
+NZD_USD:
+ShapiroResult(statistic=0.9530642032623291, pvalue=9.044428329017314e-24)
+BTC_USD:
+ShapiroResult(statistic=0.8071155548095703, pvalue=3.1753423201600355e-42)
+USDT_USD:
+ShapiroResult(statistic=0.6726424694061279, pvalue=0.0)
+CHF_USD:
+ShapiroResult(statistic=0.975523054599762, pvalue=3.9617117297790266e-17)
+JPY_USD:
+ShapiroResult(statistic=0.9318206906318665, pvalue=4.160294680473171e-28)

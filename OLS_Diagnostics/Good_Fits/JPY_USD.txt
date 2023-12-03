@@ -1,0 +1,3 @@
+R-squared: 0.9020259224996295
+Adjusted R-squared: 0.9015950304600457
+F-statistic: 2093.391939593181
