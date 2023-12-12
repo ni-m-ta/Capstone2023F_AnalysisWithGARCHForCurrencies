@@ -1,0 +1,27 @@
+PEN
+Mean Price: 0.27684323312883435
+Standard Deviation of Price: 0.017827019027543203
+ETH
+Mean Price: 1343.2654238587847
+Standard Deviation of Price: 1179.1063378702456
+INR
+Mean Price: 0.013274186349693252
+Standard Deviation of Price: 0.000743158877498051
+CNY
+Mean Price: 0.14721990330007675
+Standard Deviation of Price: 0.00606654945413193
+NZD
+Mean Price: 0.655794963190184
+Standard Deviation of Price: 0.03935248158381472
+BTC
+Mean Price: 23428.673548353036
+Standard Deviation of Price: 16193.19002326774
+USDT
+Mean Price: 1.001370724137931
+Standard Deviation of Price: 0.004539227090950969
+CHF
+Mean Price: 1.0613909148773006
+Standard Deviation of Price: 0.04371053457588757
+JPY
+Mean Price: 0.008557977760736198
+Standard Deviation of Price: 0.0009310685789246838
