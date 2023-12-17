@@ -1,0 +1,7 @@
+ARCH-LM Test
+H0: Residuals are homoskedastic.
+ARCH-LM Test
+H1: Residuals are conditionally heteroskedastic.
+Statistic: 72.6706
+P-value: 0.0000
+Distributed: chi2(15)
